@@ -18,8 +18,6 @@
   * [Prerequisites](#prerequisites)
   * [Installation](#installation)
 * [Usage](#usage)
-* [Contributing](#contributing)
-* [Contact](#contact)
 
 <!-- ABOUT THE PROJECT -->
 
