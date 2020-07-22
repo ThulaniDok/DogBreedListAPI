@@ -6,14 +6,6 @@
         <img alt="Nuget" src="https://img.shields.io/nuget/dt/NUnit.svg?label=NUnit&logo=NUnit"></a>
 </p>
 
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <a href="https://github.com/mahmoudazaid/RestSharp.Demo">
-    <img src="images/RestSharp_logo.png" alt="Logo">
-  </a>
-</p>
-
 
 # RestSharp.DogBreedList
 
